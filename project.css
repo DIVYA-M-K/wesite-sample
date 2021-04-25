@@ -1,0 +1,70 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: powderblue;
+    font-family: cursive;
+
+    
+
+    
+    
+}
+.profile-img img
+{
+    width:25%;
+    height:25%;
+    float: right;
+    box-shadow:0 0 15px 1px black;
+    animation: cubic-bezier(1, 0, 0, 1);
+    
+}
+.about
+{
+    margin: 30px;
+    height: 50vh;
+    box-shadow:0 0 15px 1px black;
+    background: lightcoral;
+    text-align: center;
+    text-decoration-color: cornsilk;
+    text-decoration-style: wavy;
+    
+    
+
+    
+}
+.header
+{
+    margin: 50px;
+    text-align: right;
+    
+    
+    box-shadow: 0 0 15px 1px black;
+    background-origin: padding-box;
+    background: plum;
+}
+.social-media img
+{
+    height: 30px;
+    margin-right: 10px;
+
+}
+.social-media
+{
+    margin-top: 20px;
+    margin-left: 15px;
+    display: ruby-text-container;
+    box-shadow:0 0 15px 1px black;
+    background: pink;
+}
+.copy
+{
+    text-emphasis-color: black;
+    text-align:center;
+    float:right;
+    
+}
